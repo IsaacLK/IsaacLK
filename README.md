@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @IsaacLK
 - 👀 I’m interested in computers, coding, and I like basketball.
 - 🌱 I’m currently learning a little Node.JS, and continuing to get better at Python.
+- 💡 Created cookieduck.com
 
 ![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaaclk&theme=radical&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaaclk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
