@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning a little Node.JS, and continuing to get better at Python.
 - 💡 Created cookieduck.com
 
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaaclk&theme=radical&show_icons=true)
+![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaaclk&theme=radical&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaaclk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
