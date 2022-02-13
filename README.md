@@ -5,6 +5,8 @@
 
 ![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaaclk&theme=radical&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaaclk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=isaaclk&theme=radical" alt="" /></p><br>
+
 
 <!---
 IsaacLK/IsaacLK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
