@@ -24,7 +24,7 @@ Welcome to my Github profile!  I am Isaac, and I love to code. I can code fullst
   
 
 
-![](https://komarev.com/ghpvc/?username=IsaacLK&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=IsaacLK&style=for-the-badge&color=ff69b4)
 </div>
 <!---
 IsaacLK/IsaacLK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
