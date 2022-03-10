@@ -1,3 +1,4 @@
+#```Hello 👋```
 - 👋 Hi, I’m @IsaacLK
 - 👀 I’m interested in computers, coding, and I like basketball.
 - 🌱 I’m currently learning a little Node.JS, and continuing to get better at Python.
