@@ -4,10 +4,10 @@
 Welcome to my Github profile!  I am Isaac, and I love to code. I can code fullstack (front-end and back-end), and primarily code in Python or Javscript.
 
 ## ```> What are you working on 🧐? ```
-1. YTDLD
-2. JSDOS
-3. AES Encryption Site (Completed)
-4. 4 other private projects (hopefully to be released soon)
+  <p>1. YTDLD</p>
+<p>2. JSDOS</p>
+<p>3. AES Encryption Site (Completed)</p>
+<p>4. 4 other private projects (hopefully to be released soon)</p>
 ## ```> What are your hobbies besides coding 👀? ```
 *I often...*
 - Play basketball
