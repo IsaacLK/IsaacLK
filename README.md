@@ -3,19 +3,19 @@
 # ***```> 👋 Hello! ```***
 Welcome to my GitHub profile!  I am Isaac, and I love to code. I can code fullstack (front-end and back-end), and primarily code in Python or Javascript.
 
-## ```> 🧐 What I'm working on: ```
- <a href="https://github.com/IsaacLK/JSDOS"> <p>- YTDLD</p></a>
-<a href="https://github.com/IsaacLK/YTDLD"><p>- JSDOS</p></a>
-<p>- AES Encryption Site (Completed, repo not created yet)</p>
-<p>- 4 other private projects (hopefully to be released soon)</p>
+## ```> 🚀 What I'm working on: ```
+ <a href="https://github.com/IsaacLK/JSDOS"> <p>✨ YTDLD</p></a>
+<a href="https://github.com/IsaacLK/YTDLD"><p>✨ JSDOS</p></a>
+<p>✨ AES Encryption Site (Completed, repo not created yet)</p>
+<p>✨ 4 other private projects (hopefully to be released soon)</p>
   
 ## ```> 🧠 I'm learning/improving: ```
-<p>- Linux (commands)</p>
-<p>- Flask (Python)</p>
-<p>- Game development (Unity)</p>
-<p>- Node.js</p>
-<p>- Use of web servers (AWS, DigitalOcean, Oracle Cloud)</p>
-<p>- Automation with Git</p>
+<p>✨ Linux (commands)</p>
+<p>✨ Flask (Python)</p>
+<p>✨ Game development (Unity)</p>
+<p>✨ Node.js</p>
+<p>✨ Use of web servers (AWS, DigitalOcean, Oracle Cloud)</p>
+<p>✨ Automation with Git</p>
 
 
 
