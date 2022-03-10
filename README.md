@@ -1,7 +1,7 @@
 <div align="center" line-spacing="0"> 
 
 # ***```> 👋 Hello! ```***
-Welcome to my GitHub profile!  I am Isaac, and I love to code. I can code fullstack (front-end and back-end), and primarily code in Python or Javscript.
+Welcome to my GitHub profile!  I am Isaac, and I love to code. I can code fullstack (front-end and back-end), and primarily code in Python or Javascript.
 
 ## ```> 🧐 What I'm working on: ```
   <p>- YTDLD</p>
