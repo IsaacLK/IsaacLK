@@ -8,6 +8,7 @@ Welcome to my GitHub profile!  I am Isaac, and I love to code. I can code fullst
 <p>- JSDOS</p>
 <p>- AES Encryption Site (Completed)</p>
 <p>- 4 other private projects (hopefully to be released soon)</p>
+  
 ## ```> 🧠 I'm learning/improving: ```
 <p>- Linux (commands)</p>
 <p>- Flask (Python)</p>
