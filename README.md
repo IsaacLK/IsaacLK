@@ -15,6 +15,7 @@ Welcome to my Github profile!  I am Isaac, and I love to code. I can code fullst
 <p>- Play video games</p>
 <p>- Do research on random topics </p>
 <p>- Do my homework or study 😅</p>
+
 ## ```> Github Stats 💯: ```
 ![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaaclk&theme=radical&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaaclk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
