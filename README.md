@@ -4,17 +4,17 @@
 Welcome to my Github profile!  I am Isaac, and I love to code. I can code fullstack (front-end and back-end), and primarily code in Python or Javscript.
 
 ## ```> What are you working on 🧐? ```
-  <p>1. YTDLD</p>
-<p>2. JSDOS</p>
-<p>3. AES Encryption Site (Completed)</p>
-<p>4. 4 other private projects (hopefully to be released soon)</p>
+  <p>- YTDLD</p>
+<p>- JSDOS</p>
+<p>- AES Encryption Site (Completed)</p>
+<p>- 4 other private projects (hopefully to be released soon)</p>
   
 ## ```> What are your hobbies besides coding 👀? ```
 *I often...*
-- Play basketball
-- Play video games
-- Do research on random topics 
-- Do my homework or study 😅
+<p>- Play basketball</p>
+<p>- Play video games</p>
+<p>- Do research on random topics </p>
+<p>- Do my homework or study 😅</p>
 ## ```> Github Stats 💯: ```
 ![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaaclk&theme=radical&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaaclk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
