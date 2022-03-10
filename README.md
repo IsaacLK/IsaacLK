@@ -8,6 +8,7 @@ Welcome to my Github profile!  I am Isaac, and I love to code. I can code fullst
 <p>2. JSDOS</p>
 <p>3. AES Encryption Site (Completed)</p>
 <p>4. 4 other private projects (hopefully to be released soon)</p>
+  
 ## ```> What are your hobbies besides coding 👀? ```
 *I often...*
 - Play basketball
