@@ -4,9 +4,9 @@
 Welcome to my GitHub profile!  I am Isaac, and I love to code. I can code fullstack (front-end and back-end), and primarily code in Python or Javascript.
 
 ## ```> 🧐 What I'm working on: ```
-  <a href="https://github.com/IsaacLK/JSDOS"><p>- YTDLD</p></a>
-<p>- JSDOS</p>
-<p>- AES Encryption Site (Completed)</p>
+ <a href="https://github.com/IsaacLK/JSDOS"> <p>- YTDLD</p></a>
+<a href="https://github.com/IsaacLK/YTDLD"><p>- JSDOS</p></a>
+<p>- AES Encryption Site (Completed, repo not created yet)</p>
 <p>- 4 other private projects (hopefully to be released soon)</p>
   
 ## ```> 🧠 I'm learning/improving: ```
@@ -17,12 +17,7 @@ Welcome to my GitHub profile!  I am Isaac, and I love to code. I can code fullst
 <p>- Use of web servers (AWS, DigitalOcean, Oracle Cloud)</p>
 <p>- Automation with Git</p>
 
-## ```> 👀 Hobbies besides coding: ```
-*I often...*
-<p>- Play basketball</p>
-<p>- Play video games</p>
-<p>- Do research on random topics </p>
-<p>- Do my homework or study 😅</p>
+
 
 ## ```> 💯 Github Stats: ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaaclk&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)<br>
