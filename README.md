@@ -1,14 +1,21 @@
 <div align="center"> 
 
 # ***```> 👋 Hello! ```***
-Welcome to my Github profile!  I am Isaac, and I love to code. I can code fullstack (front-end and back-end), and primarily code in Python or Javscript.
+Welcome to my GitHub profile!  I am Isaac, and I love to code. I can code fullstack (front-end and back-end), and primarily code in Python or Javscript.
 
 ## ```> 🧐 What I'm working on: ```
   <p>- YTDLD</p>
 <p>- JSDOS</p>
 <p>- AES Encryption Site (Completed)</p>
 <p>- 4 other private projects (hopefully to be released soon)</p>
-  
+## ```> 🧠 I'm learning/improving: ```
+<p>- Linux (commands)</p>
+<p>- Flask (Python)</p>
+<p>- Game development (Unity)</p>
+<p>- Node.js</p>
+<p>- Use of web servers (AWS, DigitalOcean, Oracle Cloud)</p>
+<p>- Automation with Git</p>
+
 ## ```> 👀 Hobbies besides coding: ```
 *I often...*
 <p>- Play basketball</p>
