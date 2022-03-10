@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+
 # ***```> Hello 👋```***
 Welcome to my Github profile!  I am Isaac, and I love to code. I can code fullstack (front-end and back-end), and primarily code in Python or Javscript.
 
@@ -20,7 +20,7 @@ Welcome to my Github profile!  I am Isaac, and I love to code. I can code fullst
 
 
 ![](https://komarev.com/ghpvc/?username=IsaacLK&style=for-the-badge)
-</div>
+
 <!---
 IsaacLK/IsaacLK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
