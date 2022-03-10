@@ -18,9 +18,10 @@ Welcome to my Github profile!  I am Isaac, and I love to code. I can code fullst
 
 ## ```> 💯 Github Stats: ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaaclk&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaaclk&theme=nightowl&show_icons=true&count_private=true)
+
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=isaaclk&theme=nightowl" alt="" /></p><br>
   
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaaclk&theme=nightowl&show_icons=true&count_private=true)
 
 
 ![](https://komarev.com/ghpvc/?username=IsaacLK&style=for-the-badge)
