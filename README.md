@@ -1,4 +1,4 @@
-<div>
+<div> <br>
 # ***```> Hello 👋```***
 Welcome to my Github profile!  I am Isaac, and I love to code. I can code fullstack (front-end and back-end), and primarily code in Python or Javscript.
 
