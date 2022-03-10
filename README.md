@@ -17,9 +17,9 @@ Welcome to my Github profile!  I am Isaac, and I love to code. I can code fullst
 <p>- Do my homework or study 😅</p>
 
 ## ```> Github Stats 💯: ```
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaaclk&theme=radical&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaaclk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=isaaclk&theme=radical" alt="" /></p><br>
+![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaaclk&theme=nightowl&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaaclk&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=isaaclk&theme=nightowl" alt="" /></p><br>
 
 
 ![](https://komarev.com/ghpvc/?username=IsaacLK&style=for-the-badge)
