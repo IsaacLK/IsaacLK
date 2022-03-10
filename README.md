@@ -20,7 +20,7 @@ Welcome to my GitHub profile!  I am Isaac, and I love to code. I can code fullst
 
 
 
-## ```> 💯 Github Stats: ```
+## ```> 💯 GitHub Stats: ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaaclk&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaaclk&theme=nightowl&show_icons=true&count_private=true)
 
