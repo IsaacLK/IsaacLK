@@ -6,7 +6,6 @@ Welcome to my GitHub profile!  I am Isaac, and I love to code. I can code fullst
 ## ```> 🚀 What I'm working on: ```
  <a href="https://github.com/IsaacLK/YTDLD"> <p>✨ YTDLD</p></a>
 <a href="https://github.com/IsaacLK/JSDOS"><p>✨ JSDOS</p></a>
-<p>✨ AES Encryption Site (Completed, repo not created yet)</p>
 <p>✨ My personal site</p>
 <p>✨ 4 other private projects (hopefully to be released soon)</p>
   
